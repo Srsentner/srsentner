@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-<!--
-**Srsentner/srsentner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some things about me:
 
 🔭 I’m currently working on taking courses for my job :(
 🌱 I’m currently learning about GitHub
